@@ -1,7 +1,7 @@
 
 # žPC-8880mk‡UFE
-Notes on creating PC-8880mk‡UFE
-PC-8880mk‡UFEì¬‚É‚Â‚¢‚Ä‚Ìƒƒ‚
+Notes on creating PC-8880mk‡UFE  
+PC-8880mk‡UFEì¬‚É‚Â‚¢‚Ä‚Ìƒƒ‚  
 
 ## ‚±‚ê‚Í‚È‚ÉH
 u“®ì‚µ‚È‚¢PC-8001mk‡Uv‚Æu“®ì‚·‚é‚ªƒ}ƒU[ƒ{[ƒh‚Ì‚Ý‚ÌPC-8801FEv‚ª“–•û‚ÌŽè‹–‚É‚ ‚è‚Ü‚µ‚½B‚¹‚Á‚©‚­‚¾‚©‚çƒjƒRƒCƒ`‚µ‚Ü‚µ‚å‚¤c‚Æ‚¢‚¤‚±‚Æ‚ÅAPC-8001mk‡U‚Ìâž‘Ì‚ÉPC-8801FEƒ}ƒU[ƒ{[ƒh‚ðŽû‚ß‚Ä‚Ý‚é‚±‚Æ‚É‚µ‚Ü‚µ‚½Bì‚ç‚ê‚½ƒ}ƒVƒ“‚É‚ÍuPC-8880mk‡UFEv‚Æ–½–¼‚µ‚Ü‚µ‚½B
@@ -37,9 +37,9 @@ FDDŽÀ‹@‚ðÚ‘±‚·‚é‚±‚Æ‚à‰Â”\‚Å‚·B‚»‚Ìê‡A‘æ1ƒhƒ‰ƒCƒu‚ÍDS0A‘æ2ƒhƒ‰ƒCƒu‚ÍDS2‚Ìƒ
 
 Copyright 2024 Hiroaki GOTO as GORRY
 
-–{ƒvƒƒ_ƒNƒg‚ÍAŽ©—R‚©‚Â–³ž‚ÅŽg—pEƒRƒs[E”z•zE•ÏXE—¬—p‚ðs‚¤‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚Ü‚½‹–‰Â‚È‚­Ä”z•zEo”ÅE”Ì”„‚ðs‚¤‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-–{ƒvƒƒ_ƒNƒg‚ÍA–³•ÛØ‚Å‚·BŽg—p‚µ‚½A‚ ‚é‚¢‚Í‚µ‚È‚©‚Á‚½‚±‚Æ‚É‚æ‚éˆêØ‚ÌÓ”C‚ÍŽg—pŽÒ‚É‚ ‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
-–{ƒvƒƒ_ƒNƒg‚ÍAˆÈ‰ºURL‚ð”z•zæ‚Æ‚µ‚Ü‚·B—˜•Ö«‚È‚Ç‚Ì‚½‚ß‚É‚±‚êˆÈŠO‚ÌURL‚Å”z•z‚·‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·‚ªAˆÈ‰º‚ªÅ‚à³Ž®‚È‚à‚Ì‚Å‚ ‚èAŠ®‘S‚ÈÅV‚ÌƒpƒbƒP[ƒW‚ð“¾‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+–{ƒvƒƒ_ƒNƒg‚ÍAŽ©—R‚©‚Â–³ž‚ÅŽg—pEƒRƒs[E”z•zE•ÏXE—¬—p‚ðs‚¤‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚Ü‚½‹–‰Â‚È‚­Ä”z•zEo”ÅE”Ì”„‚ðs‚¤‚±‚Æ‚ª‚Å‚«‚Ü‚·B  
+–{ƒvƒƒ_ƒNƒg‚ÍA–³•ÛØ‚Å‚·BŽg—p‚µ‚½A‚ ‚é‚¢‚Í‚µ‚È‚©‚Á‚½‚±‚Æ‚É‚æ‚éˆêØ‚ÌÓ”C‚ÍŽg—pŽÒ‚É‚ ‚é‚à‚Ì‚Æ‚µ‚Ü‚·B  
+–{ƒvƒƒ_ƒNƒg‚ÍAˆÈ‰ºURL‚ð”z•zæ‚Æ‚µ‚Ü‚·B—˜•Ö«‚È‚Ç‚Ì‚½‚ß‚É‚±‚êˆÈŠO‚ÌURL‚Å”z•z‚·‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·‚ªAˆÈ‰º‚ªÅ‚à³Ž®‚È‚à‚Ì‚Å‚ ‚èAŠ®‘S‚ÈÅV‚ÌƒpƒbƒP[ƒW‚ð“¾‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B  
 
 ## ˜A—æ
 
