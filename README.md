@@ -22,14 +22,14 @@ PC-8880mkⅡFEは、以下の要素から構成されています。
 
 ## 「PC-8001mkⅡのキーボード」と「PC-8801FEのマザーボード」を接続するためのモジュール
 「PC-8001mkⅡのキーボード」と「PC-8801FEのマザーボード」を接続するために、Raspberry Pi Picoでモジュールを作成しています。詳細は以下をご覧ください。
-https://github.com/gorry/p8kbto88
+- https://github.com/gorry/p8kbto88
 
 ## PC-8801FEのFDD I/Fを外部機器に接続するためのケーブル
 PC-8801FEのマザーボードには、2つのFDD I/Fコネクタが実装されています。それぞれDrive1/Drive2用で、20pin 1.27mmピッチのFFCが使用されています。PC-8880mkⅡFEでは、筐体外部に用意したFDDをこれらのコネクタに接続するためのケーブルを作成しています。詳細は以下をご覧ください。
-https://github.com/gorry/pc8880mk2fe/tree/main/fddif
+- https://github.com/gorry/pc8880mk2fe/tree/main/fddif
 
 ケーブルの筐体外側のコネクタにはMILコネクタ（34ピン）を使用し、FDDエミュレータ「FDX68」を接続する想定となっています。FDX68については、以下をご覧ください。
-http://retropc.net/gimons/fdx68/
+- http://retropc.net/gimons/fdx68/
 
 FDD実機を接続することも可能です。その場合、第1ドライブはDS0、第2ドライブはDS2のジャンパピンを接続してください。
 
